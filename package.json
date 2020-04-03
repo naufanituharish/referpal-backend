@@ -1,0 +1,11 @@
+{
+  "name": "referpal-backend",
+  "version": "0.0.1",
+  "description": "refpal backend test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "naufanituharish",
+  "license": "ISC"
+}
